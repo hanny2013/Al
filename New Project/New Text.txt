@@ -1,4 +1,4 @@
-<Status>
+<status>
    <firstname> Al </fistname>
    <lastname> Tse </lastname>
-</names>
+</status>
